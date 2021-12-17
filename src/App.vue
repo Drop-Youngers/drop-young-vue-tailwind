@@ -4,10 +4,10 @@
 
 <template>
  <div>
-
-     <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
+  <svg>
+  <circle id='circle2' cx="52" cy="52" r="50" stroke="#302F30" fill=none stroke-width="4"/>
+  <circle id='circle' cx="52" cy="52" r="50" stroke="#302F30" fill=none stroke-width="4"/>
+  </svg>
  </div>
 </template>
 
